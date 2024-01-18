@@ -16,7 +16,7 @@ In order to use **KICS version 1.7.x** to scan your files, you should use the **
 
 ```yaml
 - name: KICS Github Action
-  uses: Checkmarx/kics-github-action@v1.7.0
+  uses: Checkmarx/kics-github-action@latest
   with:
     # path to file or directory to scan
     path:
@@ -45,7 +45,7 @@ steps:
     # make sure results dir is created
     run: mkdir -p results-dir
   - name: run kics Scan
-    uses: Checkmarx/kics-github-action@v1.7.0
+    uses: Checkmarx/kics-github-action@latest
     with:
       path: 'terraform'
       output_path: results-dir
