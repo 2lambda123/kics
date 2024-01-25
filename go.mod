@@ -45,7 +45,7 @@ require (
 	golang.org/x/tools v0.16.1
 	gopkg.in/yaml.v3 v3.0.1
 	helm.sh/helm/v3 v3.14.0
-	mvdan.cc/sh/v3 v3.6.0
+	mvdan.cc/sh/v3 v3.7.0
 )
 
 require (
