@@ -39,7 +39,7 @@ require (
 	github.com/tidwall/gjson v1.17.0
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/yargevad/filepathx v1.0.0
-	github.com/zclconf/go-cty v1.14.2
+	github.com/zclconf/go-cty v1.14.4
 	golang.org/x/net v0.26.0
 	golang.org/x/text v0.16.0
 	golang.org/x/tools v0.22.0
