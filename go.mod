@@ -23,7 +23,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.21.0
 	github.com/hashicorp/terraform-json v0.21.0
 	github.com/johnfercher/maroto v1.0.0
-	github.com/mackerelio/go-osstat v0.2.4
+	github.com/mackerelio/go-osstat v0.2.5
 	github.com/mailru/easyjson v0.7.7
 	github.com/moby/buildkit v0.10.4
 	github.com/open-policy-agent/opa v0.61.0
