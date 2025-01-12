@@ -34,7 +34,7 @@ require (
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.19.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/tdewolff/minify/v2 v2.20.36
 	github.com/tidwall/gjson v1.17.1
 	github.com/xeipuuv/gojsonschema v1.2.0
