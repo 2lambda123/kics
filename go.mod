@@ -21,7 +21,7 @@ require (
 	github.com/hashicorp/go-getter v1.7.8
 	github.com/hashicorp/hcl v1.0.0
 	github.com/hashicorp/hcl/v2 v2.23.0
-	github.com/hashicorp/terraform-json v0.22.1
+	github.com/hashicorp/terraform-json v0.24.0
 	github.com/johnfercher/maroto v1.0.0
 	github.com/mackerelio/go-osstat v0.2.5
 	github.com/mailru/easyjson v0.7.7
@@ -142,7 +142,7 @@ require (
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
-	github.com/hashicorp/go-version v1.6.0 // indirect
+	github.com/hashicorp/go-version v1.7.0 // indirect
 	github.com/huandu/xstrings v1.4.0 // indirect
 	github.com/imdario/mergo v0.3.13 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
