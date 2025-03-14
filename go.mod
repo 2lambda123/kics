@@ -3,7 +3,7 @@ module github.com/Checkmarx/kics
 go 1.20
 
 require (
-	code.cloudfoundry.org/bytefmt v0.27.0
+	code.cloudfoundry.org/bytefmt v0.32.0
 	github.com/BurntSushi/toml v1.4.0
 	github.com/agnivade/levenshtein v1.2.1
 	github.com/alexmullins/zip v0.0.0-20180717182244-4affb64b04d0
@@ -15,7 +15,7 @@ require (
 	github.com/getsentry/sentry-go v0.28.1
 	github.com/gocarina/gocsv v0.0.0-20220310154401-d4df709ca055
 	github.com/golang/mock v1.6.0
-	github.com/google/pprof v0.0.0-20250125003558-7fdb3d7e6fa0
+	github.com/google/pprof v0.0.0-20250302191652-9094ed2288e7
 	github.com/google/uuid v1.6.0
 	github.com/gookit/color v1.5.4
 	github.com/hashicorp/go-getter v1.7.8
@@ -42,7 +42,7 @@ require (
 	github.com/zclconf/go-cty v1.16.2
 	golang.org/x/net v0.37.0
 	golang.org/x/text v0.23.0
-	golang.org/x/tools v0.29.0
+	golang.org/x/tools v0.31.0
 	gopkg.in/yaml.v3 v3.0.1
 	helm.sh/helm/v3 v3.17.0
 	mvdan.cc/sh/v3 v3.10.0
@@ -83,7 +83,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.28.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 // indirect
-	golang.org/x/mod v0.22.0 // indirect
+	golang.org/x/mod v0.24.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240826202546-f6391c0de4c7 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240826202546-f6391c0de4c7 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
@@ -134,7 +134,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/btree v1.0.1 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
 	github.com/googleapis/gax-go/v2 v2.12.3 // indirect
