@@ -3,7 +3,7 @@ module github.com/Checkmarx/kics
 go 1.20
 
 require (
-	code.cloudfoundry.org/bytefmt v0.27.0
+	code.cloudfoundry.org/bytefmt v0.32.0
 	github.com/BurntSushi/toml v1.4.0
 	github.com/agnivade/levenshtein v1.2.1
 	github.com/alexmullins/zip v0.0.0-20180717182244-4affb64b04d0
@@ -15,7 +15,7 @@ require (
 	github.com/getsentry/sentry-go v0.28.1
 	github.com/gocarina/gocsv v0.0.0-20220310154401-d4df709ca055
 	github.com/golang/mock v1.6.0
-	github.com/google/pprof v0.0.0-20250125003558-7fdb3d7e6fa0
+	github.com/google/pprof v0.0.0-20250302191652-9094ed2288e7
 	github.com/google/uuid v1.6.0
 	github.com/gookit/color v1.5.4
 	github.com/hashicorp/go-getter v1.7.8
@@ -134,7 +134,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/btree v1.0.1 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
 	github.com/googleapis/gax-go/v2 v2.12.3 // indirect
