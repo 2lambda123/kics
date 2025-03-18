@@ -1,6 +1,7 @@
 module github.com/Checkmarx/kics
 
 go 1.20
+toolchain go1.24.1
 
 require (
 	code.cloudfoundry.org/bytefmt v0.32.0
@@ -26,7 +27,7 @@ require (
 	github.com/mackerelio/go-osstat v0.2.5
 	github.com/mailru/easyjson v0.9.0
 	github.com/moby/buildkit v0.10.4
-	github.com/open-policy-agent/opa v0.61.0
+	github.com/open-policy-agent/opa v0.68.0
 	github.com/pkg/errors v0.9.1
 	github.com/relex/aini v1.6.0
 	github.com/rs/zerolog v1.33.0
@@ -151,7 +152,7 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/jung-kurt/gofpdf v1.16.2 // indirect
-	github.com/klauspost/compress v1.17.7 // indirect
+	github.com/klauspost/compress v1.17.9 // indirect
 	github.com/lann/builder v0.0.0-20180802200727-47ae307949d0 // indirect
 	github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 // indirect
 	github.com/lib/pq v1.10.9 // indirect
@@ -178,7 +179,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.2.2 // indirect
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
-	github.com/prometheus/client_golang v1.19.1 // indirect
+	github.com/prometheus/client_golang v1.20.2 // indirect
 	github.com/prometheus/client_model v0.6.1 // indirect
 	github.com/prometheus/common v0.55.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
@@ -210,7 +211,7 @@ require (
 	golang.org/x/time v0.7.0 // indirect
 	google.golang.org/api v0.171.0 // indirect
 	google.golang.org/genproto v0.0.0-20240213162025-012b6fc9bca9 // indirect
-	google.golang.org/grpc v1.65.0 // indirect
+	google.golang.org/grpc v1.66.0 // indirect
 	google.golang.org/protobuf v1.35.1 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
