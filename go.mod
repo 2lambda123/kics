@@ -4,7 +4,7 @@ go 1.20
 toolchain go1.24.1
 
 require (
-	code.cloudfoundry.org/bytefmt v0.32.0
+	code.cloudfoundry.org/bytefmt v0.34.0
 	github.com/BurntSushi/toml v1.4.0
 	github.com/agnivade/levenshtein v1.2.1
 	github.com/alexmullins/zip v0.0.0-20180717182244-4affb64b04d0
@@ -16,7 +16,7 @@ require (
 	github.com/getsentry/sentry-go v0.28.1
 	github.com/gocarina/gocsv v0.0.0-20220310154401-d4df709ca055
 	github.com/golang/mock v1.6.0
-	github.com/google/pprof v0.0.0-20250302191652-9094ed2288e7
+	github.com/google/pprof v0.0.0-20250317173921-a4b03ec1a45e
 	github.com/google/uuid v1.6.0
 	github.com/gookit/color v1.5.4
 	github.com/hashicorp/go-getter v1.7.8
