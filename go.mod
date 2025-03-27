@@ -5,7 +5,7 @@ toolchain go1.24.1
 
 require (
 	code.cloudfoundry.org/bytefmt v0.34.0
-	github.com/BurntSushi/toml v1.4.0
+	github.com/BurntSushi/toml v1.5.0
 	github.com/agnivade/levenshtein v1.2.1
 	github.com/alexmullins/zip v0.0.0-20180717182244-4affb64b04d0
 	github.com/antlr/antlr4/runtime/Go/antlr/v4 v4.0.0-20230305170008-8188dc5388df
